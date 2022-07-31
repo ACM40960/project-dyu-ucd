@@ -28,7 +28,7 @@ Generally, Anaconda already installed the packages we use in the project. Howeve
 * sklearn (aka scikit-learn)
 
 
-To install the packages, please use the command [pip](https://pip.pypa.io/en/stable/) and run it on a command prompt or a terminal, depending on your operating system.
+To install the package, please use the command [pip](https://pip.pypa.io/en/stable/) and run it on a command prompt or a terminal, depending on your operating system.
 
 Take numpy for example:
 ```bash
@@ -41,7 +41,7 @@ Running time actually depends on many conditions relating to the specification o
 | System | Running Time |
 |--|--|
 | MAC <br> Apple M1 chip 8-core CPU <br> RAM 8 GB| 8 mins |
-| Windows <br> Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz   2.20 GHz <br> RAM 8 GB | 35 mins |
+| Windows <br> Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz <br> RAM 8 GB | 35 mins |
 
 ## 🤓 Project Member
 21201231 Dan Yu dan.yu1@ucdconnect.ie
