@@ -7,7 +7,7 @@ The script is implemented on jupyter notebook. It takes around 10 minutes to run
 ## Contents
 
 * Stroke [Dataset](healthcare-dataset-stroke-data.csv)
-* Running [script](StrokeProject_v8.ipynb)
+* Running [script](StrokeProject_commit.ipynb)
 
 ## Install Instructions
 
